@@ -482,27 +482,6 @@ if __name__ == "__main__":
 
 ---
 
-## 🔥 Next Steps
-
-Ready to level up? Here are your options:
-
-1️⃣ Convert this into **Flask / Django project**  
-2️⃣ Add **database (MySQL / SQLite)**  
-3️⃣ Turn this into **REST API**  
-4️⃣ Get **interview questions + assignments**  
-
----
-
-## 💡 Tips for Success
-
-- **Practice daily** - Consistency is key
-- **Build projects** - Theory + Practice = Mastery
-- **Read documentation** - Python docs are excellent
-- **Join communities** - Stack Overflow, Reddit, Discord
-- **Contribute to open source** - Real-world experience
-
----
-
 ## 📖 Additional Resources
 
 - [Python Official Documentation](https://docs.python.org/)
@@ -514,20 +493,7 @@ Ready to level up? Here are your options:
 
 ## 👨‍💻 Author
 
-**Gauti**
+**Gautam Sutar**
 
 ---
 
-## 📄 License
-
-This guide is provided for educational purposes. Feel free to use, modify, and share!
-
----
-
-<div align="center">
-
-**⭐ If this helped you, give it a star! ⭐**
-
-*Happy Coding! 🐍*
-
-</div>
