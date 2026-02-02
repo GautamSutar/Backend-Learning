@@ -23,7 +23,7 @@
 
 ---
 
-## Architecture Overview
+## Architecture Overview 
 
 The CQRS architecture consists of three main components:
 
